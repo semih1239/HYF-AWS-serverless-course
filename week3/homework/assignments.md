@@ -23,7 +23,7 @@ Source link: https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-s3-acce
 
 **Assignment 2:**
 
-1. The URL of the public API: `https://g7qyx992d9.execute-api.us-east-1.amazonaws.com/Prod/hello`
+1. The URL of the public API: `https://g7qyx992d9.execute-api.us-east-1.amazonaws.com/Prod/products`
 2. The URL of the website using the API: `https://week2-homework.s3.us-east-1.amazonaws.com/index.html`
 3. Screenshot of the updated service map: ![image](https://user-images.githubusercontent.com/67079251/193426357-3bc02c04-a639-4cb7-9c01-91722915c7b1.png)
 4. Which service has the highest latency: `Api Gateway has highest latency with 0.6 t/min`
